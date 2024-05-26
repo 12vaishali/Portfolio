@@ -11,16 +11,17 @@ body{
   justify-content: center;
 }
 .top-nav-sec {
-  /* position: fixed; */
+  position: fixed;
   background-color: #F5EEE6; 
   color: #643843; 
   font-family: Arial, Helvetica, sans-serif;
   border-radius: 2500px;
-  width: 85%;
+  width: 90%;
+  height: 60px;
   padding: 7px;
   margin: 1 auto;
-
-}
+  background: #F5EEE6;
+  backdrop-filter: blur(10px);}
 
 
 .top-nav-wrapper {
